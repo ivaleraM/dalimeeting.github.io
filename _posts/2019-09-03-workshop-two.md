@@ -19,12 +19,16 @@ organizers:
 room: ""
 show_abstracts: false
 talks:
-- title: "Opening Remarks"
+- title: "Introduction"
   author:
-  - given: First
+  - given: Adrian, Plamen and Nuria
     family: Surname
     institute: Institute
-  abstract: My abstract here
+  abstract:  Aims of the workshop:
+             - Share an update on ELLIS
+             - Introduce different communities to each other: ML, AI, law, HCI… different countries and different institutions
+             - Understand what each fellow is working on
+             - Explore ways to collaborate -- possibly through a joint EU proposal? (network of initiatives)
   start: "9:30"
   end: "10:00"
 - title: ""
